@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rupesh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **AgroLink(It's my major project for my uni)**
+- 🔭 I’m currently working on **DesignRead(It's a vibe-coded project)**
 
 - 🌱 I’m currently learning **ReactJS**
 
