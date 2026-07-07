@@ -381,13 +381,9 @@ Future:
 
 # 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rupeshjenaa/rupeshjenaa/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-> *The snake animation is generated automatically using GitHub Actions.*
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rupeshjenaa/RupeshJenaa/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 
 ---
 
