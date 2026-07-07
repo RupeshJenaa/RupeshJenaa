@@ -1,43 +1,237 @@
-````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:4F46E5,50:7C3AED,100:A855F7&text=Rupesh%20Jena&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Aspiring%20Software%20Developer&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24&text=Rupesh%20Jena&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20%26%20Next.js%20Learner&descAlignY=58&animation=fadeIn"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Aspiring+Software+Developer;React+%26+Next.js+Learner;Java+%7C+JavaScript+%7C+DSA+Enthusiast;Building+Modern+Web+Applications)](https://git.io/typing-svg)
+<br>
 
-<p align="center">
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Learning+React+%26+Next.js;Java+%7C+JavaScript+%7C+DSA;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
 
-<img src="https://img.shields.io/badge/B.Tech-CSE-7C3AED?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/India-Odisha-4F46E5?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Opportunities-A855F7?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
+<br><br>
 
 <a href="https://rupesh-jena-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/rupesh-jena">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:jenarupesh16@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/rupeshjenaa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=rupeshjenaa&style=for-the-badge&color=8B5CF6"/>
+
+<img src="https://img.shields.io/github/followers/rupeshjenaa?style=for-the-badge&color=8B5CF6"/>
+
+<img src="https://img.shields.io/github/stars/rupeshjenaa?affiliations=OWNER&style=for-the-badge&color=8B5CF6"/>
+
+</div>
+
+---
+
+# 👋 About Me
+
+I'm **Rupesh**, an aspiring **Software Developer** from India passionate about building modern web applications and continuously improving my problem-solving skills.
+
+My current focus is mastering **React** and **Next.js** while strengthening my understanding of **Data Structures & Algorithms** using Java. I enjoy creating clean user interfaces, writing maintainable code, and turning ideas into real-world projects.
+
+I'm always looking for opportunities to learn, build, and grow as a developer.
+
+---
+
+# 🚀 Developer Dashboard
+
+```yaml
+Name: Rupesh Jena
+
+Location: India 🇮🇳
+
+Role: Software Developer
+
+Currently Learning:
+  - React
+  - Next.js
+
+Building:
+  - DesignRead
+
+Completed:
+  - AgroLink
+  - Personal Portfolio
+
+Practicing:
+  - Java
+  - Data Structures & Algorithms
+
+Interested In:
+  - Frontend Development
+  - Full Stack Development
+  - Open Source
+
+Goal:
+  Become a skilled Full Stack Software Developer
+```
+
+---
+
+# 🎯 Current Focus
+
+<div align="center">
+
+| 💻 Building | 📚 Learning | 🧠 Practicing |
+|:-----------:|:-----------:|:-------------:|
+| DesignRead | React & Next.js | Java + DSA |
+
+</div>
+
+---
+
+# 💡 What I'm Working Towards
+
+- Building production-quality frontend applications
+- Writing clean and reusable React components
+- Learning Next.js through real projects
+- Strengthening problem-solving with LeetCode
+- Preparing for Full Stack Development
+
+---
+
+> **"Consistency compounds. Every project, every commit, and every problem solved is a step forward."**
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css&theme=dark"/>
 </p>
 
-<p align="center">
+### Frontend
 
-![](https://komarev.com/ghpvc/?username=rupeshjenaa&style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/followers/rupeshjenaa?style=flat-square&color=7C3AED)
-![](https://img.shields.io/github/stars/rupeshjenaa?affiliations=OWNER&style=flat-square&color=7C3AED)
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark"/>
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,postman&theme=dark"/>
+</p>
+
+</div>
+
+---
+
+# 🛠 Skills
+
+| Category | Technologies |
+|-----------|--------------|
+| **Programming** | Java • JavaScript • Python • C |
+| **Frontend** | HTML • CSS • React • Responsive Design |
+| **Currently Learning** | Next.js • Advanced React |
+| **Database** | MySQL |
+| **Tools** | Git • GitHub • VS Code • Postman • Figma |
+| **Problem Solving** | Data Structures & Algorithms • LeetCode |
+
+---
+
+# 🚀 Featured Projects
+
+<div align="center">
+
+## 🌾 AgroLink
+
+*A responsive agriculture platform built to provide a clean and modern user experience.*
+
+**Tech Stack**
+
+`React` `JavaScript` `HTML5` `CSS3`
+
+**Highlights**
+
+- Responsive Design
+- Reusable Components
+- Modern UI
+- Clean Code Structure
+
+<p>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="YOUR_LIVE_LINK">
+<img src="https://img.shields.io/badge/Live Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 💼 Personal Portfolio
+
+*A portfolio website showcasing my projects, technical skills, and development journey.*
+
+**Tech Stack**
+
+`React`
+
+**Highlights**
+
+- Responsive Layout
+- Clean Design
+- Smooth Navigation
+- Project Showcase
+
+<p>
+
+<a href="YOUR_REPOSITORY_LINK">
+<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://rupesh-jena-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Visit Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📖 DesignRead
+
+> **Status:** 🚧 In Development
+
+DesignRead is a modern reading platform that I'm currently building while learning React and Next.js. This project helps me practice scalable component architecture, cleaner UI design, and modern frontend workflows.
+
+**Current Focus**
+
+- Better UI/UX
+- Reusable Components
+- Responsive Design
+- Project Architecture
+
+**Planned Features**
+
+- Reading Dashboard
+- Search Functionality
+- Dark Mode
+- Better Navigation
+- Performance Improvements
+
+<p>
+
+<img src="https://img.shields.io/badge/Status-Work%20In%20Progress-orange?style=for-the-badge"/>
 
 </p>
 
@@ -45,132 +239,94 @@
 
 ---
 
-# About Me
-
-I'm an **aspiring Software Developer** from **India** who enjoys building clean, responsive, and user-friendly web applications.
-
-Currently, I'm focused on strengthening my frontend development skills while learning **React** and **Next.js** side by side. Alongside development, I consistently practice **Data Structures & Algorithms** using Java to improve my problem-solving skills and prepare for software engineering roles.
-
-I enjoy turning ideas into polished interfaces and continuously improving my understanding of modern web technologies.
-
-### Currently
-
-- Building real-world projects
-- Learning React & Next.js together
-- Practicing DSA regularly
-- Exploring modern UI/UX
-- Looking for opportunities to grow as a software developer
-
----
-
-# Tech Stack
-
-### Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,js,python,c,html,css"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma"/>
-
-</p>
-
----
-
-# Featured Projects
-
-<details>
-<summary><b>🌾 AgroLink</b></summary>
-
-A responsive agriculture platform focused on delivering a clean and intuitive user experience.
-
-| Feature | Details |
-|---------|---------|
-| Tech Stack | HTML • CSS • JavaScript • React |
-| UI | Responsive Design |
-| Focus | Modern Frontend Development |
-| Status | Completed |
-| Repository | Add Repository Link |
-| Live Demo | Add Live Link |
-
-</details>
-
-<details>
-<summary><b>💼 Personal Portfolio</b></summary>
-
-A personal portfolio showcasing my projects, skills, and development journey with a clean and responsive design.
-
-| Feature | Details |
-|---------|---------|
-| Tech Stack | React |
-| UI | Responsive |
-| Theme | Modern Minimal |
-| Status | Completed |
-| Repository | Add Repository Link |
-| Live Demo | https://rupesh-jena-portfolio.netlify.app |
-
-</details>
-
-<details>
-<summary><b>📖 DesignRead (Ongoing)</b></summary>
-
-A modern reading platform currently under development where I'm experimenting with better UI design, reusable React components, and cleaner project architecture.
-
-| Feature | Details |
-|---------|---------|
-| Tech Stack | React |
-| Status | In Progress |
-| Focus | UI/UX |
-| Goal | Build a polished reading experience |
-| Repository | Private / Coming Soon |
-
-</details>
-
----
-
-# Learning Journey
+# 📌 Project Roadmap
 
 ```text
-HTML & CSS        ██████████ 100%
+✅ Personal Portfolio
 
-JavaScript        █████████░ 90%
+✅ AgroLink
 
-React             ████████░░ 80%
+🚧 DesignRead
 
-Next.js           ███░░░░░░░ 35%
+⬜ Next.js Project #1
 
-Java              ███████░░░ 75%
+⬜ Full Stack Project
 
-Data Structures   ███████░░░ 75%
+⬜ Open Source Contribution
+
+⬜ AI-powered Web Project
 ```
 
 ---
 
-# Coding Profiles
+# 📚 Currently Exploring
 
-<p align="center">
+<div align="center">
+
+| 🌱 Learning | 🎯 Goal |
+|-------------|---------|
+| React Patterns | Build Better Components |
+| Next.js | Production-ready Applications |
+| UI/UX | Better User Experience |
+| DSA | Stronger Problem Solving |
+
+</div>
+
+---
+
+# 🎖 Development Principles
+
+- Write clean and readable code.
+- Build responsive applications.
+- Learn by creating real projects.
+- Improve through consistency.
+- Keep exploring modern technologies.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rupeshjenaa&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshjenaa&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=rupeshjenaa&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=rupeshjenaa&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshjenaa&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+# 📅 Coding Profiles
+
+<div align="center">
 
 <a href="https://leetcode.com/u/rupeshhh/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
@@ -180,91 +336,64 @@ Data Structures   ███████░░░ 75%
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-</p>
+</div>
 
 ---
 
-# GitHub Analytics
+# 🎯 Current Snapshot
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=rupeshjenaa&show_icons=true&theme=tokyonight&hide_border=true"/>
+| 💼 Projects | 🌱 Learning | 🧠 DSA | 🎯 Goal |
+|:-----------:|:----------:|:------:|:------:|
+| 3 | React & Next.js | Java | Full Stack |
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshjenaa&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=rupeshjenaa&theme=tokyonight&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rupeshjenaa&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</p>
-
----
-
-# Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rupeshjenaa&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/rupeshjenaa/rupeshjenaa/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
-> **Note:** Enable this using a GitHub Action after creating your profile repository.
-
----
-
-# Current Focus
+# 🧠 What I'm Learning Right Now
 
 ```yaml
-learning:
+Frontend:
   - React
   - Next.js
-  - Advanced JavaScript
-  - Data Structures & Algorithms
 
-building:
+Programming:
+  - Java
+
+Problem Solving:
+  - Arrays
+  - Binary Search
+  - Sliding Window
+  - Trees (Next)
+
+Building:
   - DesignRead
-  - Better UI Projects
 
-completed:
-  - AgroLink
-  - Personal Portfolio
-
-exploring:
-  - Modern Web Development
-  - AI-assisted Development
+Future:
+  - Backend Development
+  - Full Stack Projects
   - Open Source
-
-goal:
-  - Become a Full Stack Software Developer
 ```
 
 ---
 
-# Connect With Me
+# 🐍 Contribution Snake
 
-<p align="center">
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rupeshjenaa/rupeshjenaa/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+> *The snake animation is generated automatically using GitHub Actions.*
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
 
 <a href="mailto:jenarupesh16@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
@@ -274,23 +403,36 @@ goal:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
+<a href="https://rupesh-jena-portfolio.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://github.com/rupeshjenaa">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://rupesh-jena-portfolio.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+</div>
 
-</p>
+---
+
+## 💬 Open To
+
+- Software Development Opportunities
+- Frontend Development Roles
+- Open Source Collaboration
+- Learning from Experienced Developers
+- Building Impactful Projects
 
 ---
 
 <div align="center">
 
-*"Great software is built through consistency, curiosity, and continuous learning."*
+### Thanks for visiting my profile!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+*"Build. Learn. Improve. Repeat."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient&customColorList=6,11,20,24"/>
 
 </div>
-````
