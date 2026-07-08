@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=gradient&customColorList=6,11,20,24&text=Rupesh%20Jena&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20%26%20Next.js%20Learner&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:4F46E5,50:7C3AED,100:A855F7&text=Rupesh%20Jena&fontColor=ffffff&fontSize=48&fontAlignY=38&desc=Software%20Developer%20%7C%20React%20%26%20Next.js%20Learner&descAlignY=58&animation=fadeIn" />
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=900&lines=Building+Modern+Web+Applications;Learning+React+%26+Next.js;Java+%7C+JavaScript+%7C+DSA;Always+Learning.+Always+Building.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=850&lines=Software+Developer;Learning+React+%26+Next.js;Java+%7C+JavaScript+%7C+DSA;Building+Modern+Web+Applications)](https://git.io/typing-svg)
 
 <br><br>
 
