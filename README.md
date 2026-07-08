@@ -304,16 +304,6 @@ DesignRead is a modern reading platform that I'm currently building while learni
 
 ---
 
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rupeshjenaa&theme=tokyonight&no-frame=true&column=4&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
 # 📈 Contribution Graph
 
 <div align="center">
@@ -324,17 +314,14 @@ DesignRead is a modern reading platform that I'm currently building while learni
 
 ---
 
-# 📅 Coding Profiles
+# 💻 Coding Profiles
 
 <div align="center">
 
-<a href="https://leetcode.com/u/rupeshhh/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://github.com/rupeshjenaa">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
+| Platform | Profile |
+|----------|---------|
+| 🟢 GeeksforGeeks | <a href="https://www.geeksforgeeks.org/profile/jenarup5cat?tab=overview">View Profile ↗</a> |
+| 🟡 LeetCode | <a href="https://leetcode.com/u/rupeshhh/">View Profile ↗</a> |
 
 </div>
 
